@@ -1,4 +1,4 @@
-vscode/
+.vscode/
 next_word_predictor/
 corpus.txt
 vocab.json
