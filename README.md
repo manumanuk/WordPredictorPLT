@@ -7,3 +7,5 @@ Backend hosted locally via Python Flask app (see [predict.py](./predict.py)) tha
 **A video demo of this project can be found [here](https://www.youtube.com/watch?v=NHd5NQ1ePaI).**
 
 Experimental, more lightweight model is being developed in [train_lite.py](./train_lite.py) to test a form of vector mapping from 512-dimensional input to 512-dimensional output, followed by nearest-neighbour identification from vocabulary.
+
+[![](./readme_assets/hosted-site.jpg)](https://www.youtube.com/watch?v=NHd5NQ1ePaI)
